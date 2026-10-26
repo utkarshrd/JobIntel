@@ -1,0 +1,5 @@
+{
+  "_note": "Board tokens verified to exist (HTTP 200) with India-located postings on 2026-10-25. Add more tokens here; a token that is not on that platform returns 404 and is skipped with an error recorded in the audit row.",
+  "greenhouse": ["databricks", "stripe", "mongodb", "okta", "gitlab", "elastic", "twilio", "airbnb", "coinbase", "groww"],
+  "lever": ["paytm", "meesho", "cred", "zeta"]
+}

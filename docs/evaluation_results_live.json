@@ -1,0 +1,1147 @@
+{
+  "n_jobs": 2118,
+  "n_seeds": 10,
+  "scenarios": {
+    "query": {
+      "personas": {
+        "Backend Developer / Bengaluru": {
+          "n_relevant": 44,
+          "mean_profile_skills": 10.2,
+          "trials_without_skills": 0
+        },
+        "Backend Developer / Hyderabad": {
+          "n_relevant": 48,
+          "mean_profile_skills": 17.5,
+          "trials_without_skills": 0
+        },
+        "Backend Developer / Mumbai": {
+          "n_relevant": 42,
+          "mean_profile_skills": 8.2,
+          "trials_without_skills": 0
+        },
+        "Backend Developer / Pune": {
+          "n_relevant": 50,
+          "mean_profile_skills": 11.7,
+          "trials_without_skills": 0
+        },
+        "Business Analyst / Bengaluru": {
+          "n_relevant": 45,
+          "mean_profile_skills": 4.4,
+          "trials_without_skills": 0
+        },
+        "Business Analyst / Hyderabad": {
+          "n_relevant": 46,
+          "mean_profile_skills": 4.5,
+          "trials_without_skills": 0
+        },
+        "Business Analyst / Mumbai": {
+          "n_relevant": 47,
+          "mean_profile_skills": 2.8,
+          "trials_without_skills": 0
+        },
+        "Business Analyst / Pune": {
+          "n_relevant": 48,
+          "mean_profile_skills": 4.0,
+          "trials_without_skills": 0
+        },
+        "Data Analyst / Bengaluru": {
+          "n_relevant": 45,
+          "mean_profile_skills": 10.6,
+          "trials_without_skills": 0
+        },
+        "Data Analyst / Hyderabad": {
+          "n_relevant": 43,
+          "mean_profile_skills": 9.3,
+          "trials_without_skills": 0
+        },
+        "Data Analyst / Mumbai": {
+          "n_relevant": 45,
+          "mean_profile_skills": 7.4,
+          "trials_without_skills": 0
+        },
+        "Data Analyst / Pune": {
+          "n_relevant": 47,
+          "mean_profile_skills": 8.9,
+          "trials_without_skills": 0
+        },
+        "Data Engineer / Bengaluru": {
+          "n_relevant": 36,
+          "mean_profile_skills": 13.0,
+          "trials_without_skills": 0
+        },
+        "Data Engineer / Hyderabad": {
+          "n_relevant": 33,
+          "mean_profile_skills": 11.2,
+          "trials_without_skills": 0
+        },
+        "Data Engineer / Mumbai": {
+          "n_relevant": 46,
+          "mean_profile_skills": 12.7,
+          "trials_without_skills": 0
+        },
+        "Data Engineer / Pune": {
+          "n_relevant": 45,
+          "mean_profile_skills": 15.1,
+          "trials_without_skills": 0
+        },
+        "Data Scientist / Bengaluru": {
+          "n_relevant": 46,
+          "mean_profile_skills": 9.5,
+          "trials_without_skills": 0
+        },
+        "Data Scientist / Hyderabad": {
+          "n_relevant": 45,
+          "mean_profile_skills": 11.4,
+          "trials_without_skills": 0
+        },
+        "Data Scientist / Mumbai": {
+          "n_relevant": 43,
+          "mean_profile_skills": 10.6,
+          "trials_without_skills": 0
+        },
+        "Data Scientist / Pune": {
+          "n_relevant": 42,
+          "mean_profile_skills": 10.0,
+          "trials_without_skills": 0
+        },
+        "DevOps Engineer / Bengaluru": {
+          "n_relevant": 45,
+          "mean_profile_skills": 13.6,
+          "trials_without_skills": 0
+        },
+        "DevOps Engineer / Hyderabad": {
+          "n_relevant": 48,
+          "mean_profile_skills": 11.2,
+          "trials_without_skills": 0
+        },
+        "DevOps Engineer / Mumbai": {
+          "n_relevant": 46,
+          "mean_profile_skills": 11.8,
+          "trials_without_skills": 0
+        },
+        "DevOps Engineer / Pune": {
+          "n_relevant": 45,
+          "mean_profile_skills": 16.8,
+          "trials_without_skills": 0
+        },
+        "Digital Marketing / Bengaluru": {
+          "n_relevant": 41,
+          "mean_profile_skills": 2.3,
+          "trials_without_skills": 0
+        },
+        "Digital Marketing / Hyderabad": {
+          "n_relevant": 46,
+          "mean_profile_skills": 1.6,
+          "trials_without_skills": 0
+        },
+        "Digital Marketing / Mumbai": {
+          "n_relevant": 44,
+          "mean_profile_skills": 1.9,
+          "trials_without_skills": 0
+        },
+        "Digital Marketing / Pune": {
+          "n_relevant": 48,
+          "mean_profile_skills": 3.7,
+          "trials_without_skills": 0
+        },
+        "Financial Analyst / Bengaluru": {
+          "n_relevant": 38,
+          "mean_profile_skills": 3.0,
+          "trials_without_skills": 0
+        },
+        "Financial Analyst / Hyderabad": {
+          "n_relevant": 47,
+          "mean_profile_skills": 5.2,
+          "trials_without_skills": 0
+        },
+        "Financial Analyst / Mumbai": {
+          "n_relevant": 42,
+          "mean_profile_skills": 2.6,
+          "trials_without_skills": 0
+        },
+        "Financial Analyst / Pune": {
+          "n_relevant": 41,
+          "mean_profile_skills": 1.6,
+          "trials_without_skills": 2
+        },
+        "Frontend Developer / Bengaluru": {
+          "n_relevant": 42,
+          "mean_profile_skills": 5.6,
+          "trials_without_skills": 0
+        },
+        "Frontend Developer / Hyderabad": {
+          "n_relevant": 49,
+          "mean_profile_skills": 9.5,
+          "trials_without_skills": 0
+        },
+        "Frontend Developer / Mumbai": {
+          "n_relevant": 44,
+          "mean_profile_skills": 8.7,
+          "trials_without_skills": 0
+        },
+        "Frontend Developer / Pune": {
+          "n_relevant": 48,
+          "mean_profile_skills": 8.4,
+          "trials_without_skills": 0
+        },
+        "Machine Learning Engineer / Bengaluru": {
+          "n_relevant": 50,
+          "mean_profile_skills": 7.4,
+          "trials_without_skills": 0
+        },
+        "Machine Learning Engineer / Hyderabad": {
+          "n_relevant": 38,
+          "mean_profile_skills": 5.1,
+          "trials_without_skills": 0
+        },
+        "Machine Learning Engineer / Mumbai": {
+          "n_relevant": 43,
+          "mean_profile_skills": 7.6,
+          "trials_without_skills": 0
+        },
+        "Machine Learning Engineer / Pune": {
+          "n_relevant": 48,
+          "mean_profile_skills": 13.6,
+          "trials_without_skills": 0
+        },
+        "Product Manager / Bengaluru": {
+          "n_relevant": 39,
+          "mean_profile_skills": 0.3,
+          "trials_without_skills": 7
+        },
+        "Product Manager / Hyderabad": {
+          "n_relevant": 43,
+          "mean_profile_skills": 0.0,
+          "trials_without_skills": 10
+        },
+        "Product Manager / Mumbai": {
+          "n_relevant": 43,
+          "mean_profile_skills": 1.0,
+          "trials_without_skills": 4
+        },
+        "Product Manager / Pune": {
+          "n_relevant": 43,
+          "mean_profile_skills": 2.2,
+          "trials_without_skills": 0
+        },
+        "Software Engineer / Bengaluru": {
+          "n_relevant": 44,
+          "mean_profile_skills": 4.0,
+          "trials_without_skills": 0
+        },
+        "Software Engineer / Hyderabad": {
+          "n_relevant": 42,
+          "mean_profile_skills": 4.2,
+          "trials_without_skills": 0
+        },
+        "Software Engineer / Mumbai": {
+          "n_relevant": 49,
+          "mean_profile_skills": 5.3,
+          "trials_without_skills": 0
+        },
+        "Software Engineer / Pune": {
+          "n_relevant": 36,
+          "mean_profile_skills": 10.1,
+          "trials_without_skills": 0
+        }
+      },
+      "summary": {
+        "hybrid": {
+          "precision@5": {
+            "mean": 0.5433333333333333,
+            "std": 0.29772507903458806
+          },
+          "recall@5": {
+            "mean": 0.12183637466468686,
+            "std": 0.06807181043620755
+          },
+          "ndcg@5": {
+            "mean": 0.5708769974135456,
+            "std": 0.30318600132264156
+          },
+          "diversity@5": {
+            "mean": 0.7625971773129667,
+            "std": 0.09683047619800747
+          },
+          "precision@10": {
+            "mean": 0.430625,
+            "std": 0.2434092085306034
+          },
+          "recall@10": {
+            "mean": 0.19263470513687989,
+            "std": 0.11016980221141344
+          },
+          "ndcg@10": {
+            "mean": 0.48310283177689217,
+            "std": 0.25398643814115807
+          },
+          "diversity@10": {
+            "mean": 0.7920668181706311,
+            "std": 0.08429020383218994
+          }
+        },
+        "skills": {
+          "precision@5": {
+            "mean": 0.06916666666666667,
+            "std": 0.2179026360626735
+          },
+          "recall@5": {
+            "mean": 0.0151925321029297,
+            "std": 0.04740075464042069
+          },
+          "ndcg@5": {
+            "mean": 0.06281433812301558,
+            "std": 0.20280247758621855
+          },
+          "diversity@5": {
+            "mean": 0.8883161872336074,
+            "std": 0.045809048727987835
+          },
+          "precision@10": {
+            "mean": 0.06729166666666667,
+            "std": 0.19735452434930714
+          },
+          "recall@10": {
+            "mean": 0.029788810863896675,
+            "std": 0.08535133357507829
+          },
+          "ndcg@10": {
+            "mean": 0.06384274429709615,
+            "std": 0.19081643202551485
+          },
+          "diversity@10": {
+            "mean": 0.8762431832139566,
+            "std": 0.04740567887240235
+          }
+        },
+        "content": {
+          "precision@5": {
+            "mean": 0.14541666666666667,
+            "std": 0.16276522705139193
+          },
+          "recall@5": {
+            "mean": 0.03278845862160827,
+            "std": 0.03657923886842498
+          },
+          "ndcg@5": {
+            "mean": 0.1449618028629781,
+            "std": 0.17214306385510972
+          },
+          "diversity@5": {
+            "mean": 0.6747679556540562,
+            "std": 0.10090103091517463
+          },
+          "precision@10": {
+            "mean": 0.14187500000000003,
+            "std": 0.11457748925439645
+          },
+          "recall@10": {
+            "mean": 0.06417974512372732,
+            "std": 0.052530493606620016
+          },
+          "ndcg@10": {
+            "mean": 0.14238961310265508,
+            "std": 0.12469653929972284
+          },
+          "diversity@10": {
+            "mean": 0.7042384106374125,
+            "std": 0.08566271674617655
+          }
+        },
+        "popularity": {
+          "precision@5": {
+            "mean": 0.008333333333333333,
+            "std": 0.04000695833701011
+          },
+          "recall@5": {
+            "mean": 0.0018557285423704188,
+            "std": 0.008941179573879859
+          },
+          "ndcg@5": {
+            "mean": 0.008519617206052304,
+            "std": 0.04413819777404268
+          },
+          "diversity@5": {
+            "mean": 0.9786313900015405,
+            "std": 0.0011315158079280277
+          },
+          "precision@10": {
+            "mean": 0.010000000000000002,
+            "std": 0.030718602960578902
+          },
+          "recall@10": {
+            "mean": 0.004575635949777826,
+            "std": 0.014317022070630687
+          },
+          "ndcg@10": {
+            "mean": 0.009635827570699498,
+            "std": 0.03272586503843347
+          },
+          "diversity@10": {
+            "mean": 0.9607515445570619,
+            "std": 0.00840354076948594
+          }
+        },
+        "random": {
+          "precision@5": {
+            "mean": 0.011666666666666667,
+            "std": 0.046923441103382466
+          },
+          "recall@5": {
+            "mean": 0.0026279977226773563,
+            "std": 0.010613947851068528
+          },
+          "ndcg@5": {
+            "mean": 0.012205338338392904,
+            "std": 0.05224838945832775
+          },
+          "diversity@5": {
+            "mean": 0.9596993613589172,
+            "std": 0.01824632891441111
+          },
+          "precision@10": {
+            "mean": 0.011041666666666668,
+            "std": 0.032677303950274024
+          },
+          "recall@10": {
+            "mean": 0.004965144811073772,
+            "std": 0.014735578958527692
+          },
+          "ndcg@10": {
+            "mean": 0.0115942326167137,
+            "std": 0.037942181522836356
+          },
+          "diversity@10": {
+            "mean": 0.9597230703281756,
+            "std": 0.011013739185261598
+          }
+        }
+      },
+      "catalog_coverage@10": {
+        "hybrid": 0.3616619452313503,
+        "skills": 0.13786591123701605,
+        "content": 0.176109537299339,
+        "popularity": 0.0056657223796034,
+        "random": 0.8970727101038716
+      },
+      "persona_ndcg@10": {
+        "Backend Developer / Bengaluru": {
+          "hybrid": 0.48015575593371607,
+          "skills": 0.0,
+          "content": 0.2650158374395694,
+          "popularity": 0.0,
+          "random": 0.01487639058405727
+        },
+        "Backend Developer / Hyderabad": {
+          "hybrid": 0.5332816239741845,
+          "skills": 0.0,
+          "content": 0.25186780846470885,
+          "popularity": 0.0,
+          "random": 0.0
+        },
+        "Backend Developer / Mumbai": {
+          "hybrid": 0.46213412878243976,
+          "skills": 0.03510684246681534,
+          "content": 0.1855770954597636,
+          "popularity": 0.0,
+          "random": 0.011004588314904008
+        },
+        "Backend Developer / Pune": {
+          "hybrid": 0.6299766010555756,
+          "skills": 0.0,
+          "content": 0.10247360772116595,
+          "popularity": 0.0,
+          "random": 0.0
+        },
+        "Business Analyst / Bengaluru": {
+          "hybrid": 0.4676615559444975,
+          "skills": 0.1428527590288429,
+          "content": 0.0275071067313356,
+          "popularity": 0.0,
+          "random": 0.015457433957839824
+        },
+        "Business Analyst / Hyderabad": {
+          "hybrid": 0.45184045685627383,
+          "skills": 0.0,
+          "content": 0.10324033158505593,
+          "popularity": 0.0,
+          "random": 0.008514311764162098
+        },
+        "Business Analyst / Mumbai": {
+          "hybrid": 0.28097204887538985,
+          "skills": 0.31557749517210526,
+          "content": 0.022009176629808017,
+          "popularity": 0.01987626703631671,
+          "random": 0.013886244387355454
+        },
+        "Business Analyst / Pune": {
+          "hybrid": 0.39756878519772415,
+          "skills": 0.0,
+          "content": 0.2741109919695531,
+          "popularity": 0.0,
+          "random": 0.0
+        },
+        "Data Analyst / Bengaluru": {
+          "hybrid": 0.26284058314300807,
+          "skills": 0.0,
+          "content": 0.23848825216477287,
+          "popularity": 0.0,
+          "random": 0.027191445400928348
+        },
+        "Data Analyst / Hyderabad": {
+          "hybrid": 0.4073051650648797,
+          "skills": 0.0,
+          "content": 0.08685689647045723,
+          "popularity": 0.0,
+          "random": 0.013886244387355454
+        },
+        "Data Analyst / Mumbai": {
+          "hybrid": 0.26530560830311567,
+          "skills": 0.0,
+          "content": 0.05304563434523742,
+          "popularity": 0.0,
+          "random": 0.007336392209936005
+        },
+        "Data Analyst / Pune": {
+          "hybrid": 0.6277302866687438,
+          "skills": 0.0,
+          "content": 0.11685038480432768,
+          "popularity": 0.0,
+          "random": 0.0158507039740981
+        },
+        "Data Engineer / Bengaluru": {
+          "hybrid": 0.727642958257234,
+          "skills": 0.006362078819895171,
+          "content": 0.2745615524693608,
+          "popularity": 0.07297065208310177,
+          "random": 0.011004588314904008
+        },
+        "Data Engineer / Hyderabad": {
+          "hybrid": 0.250176825915326,
+          "skills": 0.0,
+          "content": 0.16003115471774426,
+          "popularity": 0.0,
+          "random": 0.006362078819895171
+        },
+        "Data Engineer / Mumbai": {
+          "hybrid": 0.37728267298927076,
+          "skills": 0.18051012286761348,
+          "content": 0.09852052183750146,
+          "popularity": 0.0,
+          "random": 0.0
+        },
+        "Data Engineer / Pune": {
+          "hybrid": 0.6074447198628194,
+          "skills": 0.0,
+          "content": 0.12093259679079305,
+          "popularity": 0.0,
+          "random": 0.02855902880722746
+        },
+        "Data Scientist / Bengaluru": {
+          "hybrid": 0.539837242182774,
+          "skills": 0.0,
+          "content": 0.14383100143126404,
+          "popularity": 0.0,
+          "random": 0.013961814555374907
+        },
+        "Data Scientist / Hyderabad": {
+          "hybrid": 0.4620847596050316,
+          "skills": 0.0,
+          "content": 0.2402035618343575,
+          "popularity": 0.0,
+          "random": 0.02934556883974402
+        },
+        "Data Scientist / Mumbai": {
+          "hybrid": 0.6808169716282982,
+          "skills": 0.0,
+          "content": 0.18472083883032991,
+          "popularity": 0.0,
+          "random": 0.012987501165334075
+        },
+        "Data Scientist / Pune": {
+          "hybrid": 0.35695961021073574,
+          "skills": 0.0,
+          "content": 0.05925846332364243,
+          "popularity": 0.1100458831490401,
+          "random": 0.0
+        },
+        "DevOps Engineer / Bengaluru": {
+          "hybrid": 0.8018301299697972,
+          "skills": 0.0,
+          "content": 0.1248142784880422,
+          "popularity": 0.0,
+          "random": 0.03679212572135328
+        },
+        "DevOps Engineer / Hyderabad": {
+          "hybrid": 0.5165344097700924,
+          "skills": 0.0,
+          "content": 0.07788670278793186,
+          "popularity": 0.0,
+          "random": 0.022009176629808017
+        },
+        "DevOps Engineer / Mumbai": {
+          "hybrid": 0.5571338138619146,
+          "skills": 0.0,
+          "content": 0.09578293151456502,
+          "popularity": 0.0,
+          "random": 0.007336392209936005
+        },
+        "DevOps Engineer / Pune": {
+          "hybrid": 0.5792918041620367,
+          "skills": 0.0,
+          "content": 0.17625078623830964,
+          "popularity": 0.0,
+          "random": 0.0
+        },
+        "Digital Marketing / Bengaluru": {
+          "hybrid": 0.5851615651444287,
+          "skills": 0.0,
+          "content": 0.1637674497233848,
+          "popularity": 0.0,
+          "random": 0.011004588314904008
+        },
+        "Digital Marketing / Hyderabad": {
+          "hybrid": 0.5792467661040117,
+          "skills": 0.0,
+          "content": 0.08514632233493177,
+          "popularity": 0.04257155882081049,
+          "random": 0.019518900079066107
+        },
+        "Digital Marketing / Mumbai": {
+          "hybrid": 0.6421069158842799,
+          "skills": 0.4983808041570466,
+          "content": 0.0706110319855521,
+          "popularity": 0.0,
+          "random": 0.0
+        },
+        "Digital Marketing / Pune": {
+          "hybrid": 0.7938742012451068,
+          "skills": 0.0,
+          "content": 0.3569389588930204,
+          "popularity": 0.047038961387205196,
+          "random": 0.0
+        },
+        "Financial Analyst / Bengaluru": {
+          "hybrid": 0.37227713448641736,
+          "skills": 0.1115914913935541,
+          "content": 0.2719981231271724,
+          "popularity": 0.018957672873910154,
+          "random": 0.0
+        },
+        "Financial Analyst / Hyderabad": {
+          "hybrid": 0.3686933729962841,
+          "skills": 0.0,
+          "content": 0.2158114583942586,
+          "popularity": 0.05725870937905654,
+          "random": 0.016815228646891084
+        },
+        "Financial Analyst / Mumbai": {
+          "hybrid": 0.6785313931132838,
+          "skills": 0.591776330049715,
+          "content": 0.13837605440144793,
+          "popularity": 0.0,
+          "random": 0.0
+        },
+        "Financial Analyst / Pune": {
+          "hybrid": 0.2315730287469664,
+          "skills": 0.04025451673428189,
+          "content": 0.05675734358401887,
+          "popularity": 0.0,
+          "random": 0.011004588314904008
+        },
+        "Frontend Developer / Bengaluru": {
+          "hybrid": 0.5150484364877725,
+          "skills": 0.03009082477458952,
+          "content": 0.15120655009969566,
+          "popularity": 0.0,
+          "random": 0.011004588314904008
+        },
+        "Frontend Developer / Hyderabad": {
+          "hybrid": 0.8025605835950925,
+          "skills": 0.0,
+          "content": 0.15235730084052815,
+          "popularity": 0.0,
+          "random": 0.022009176629808017
+        },
+        "Frontend Developer / Mumbai": {
+          "hybrid": 0.32583816166345225,
+          "skills": 0.020904936749052635,
+          "content": 0.20002101937112854,
+          "popularity": 0.0,
+          "random": 0.01467278441987201
+        },
+        "Frontend Developer / Pune": {
+          "hybrid": 0.6621436609434751,
+          "skills": 0.0,
+          "content": 0.14413170004209852,
+          "popularity": 0.06602752988942405,
+          "random": 0.0
+        },
+        "Machine Learning Engineer / Bengaluru": {
+          "hybrid": 0.6658197977661702,
+          "skills": 1.0,
+          "content": 0.04380892758850172,
+          "popularity": 0.0,
+          "random": 0.02336508082431053
+        },
+        "Machine Learning Engineer / Hyderabad": {
+          "hybrid": 0.6956528570005676,
+          "skills": 0.0,
+          "content": 0.05783594165545336,
+          "popularity": 0.0,
+          "random": 0.020511666732794358
+        },
+        "Machine Learning Engineer / Mumbai": {
+          "hybrid": 0.28021654151373376,
+          "skills": 0.0,
+          "content": 0.18983215444544324,
+          "popularity": 0.0,
+          "random": 0.028371255449703186
+        },
+        "Machine Learning Engineer / Pune": {
+          "hybrid": 0.6631706556288555,
+          "skills": 0.0,
+          "content": 0.3459168851372113,
+          "popularity": 0.0,
+          "random": 0.007839826897867533
+        },
+        "Product Manager / Bengaluru": {
+          "hybrid": 0.6806504200147707,
+          "skills": 0.0,
+          "content": 0.30909846841282207,
+          "popularity": 0.0,
+          "random": 0.0
+        },
+        "Product Manager / Hyderabad": {
+          "hybrid": 0.8822804768595253,
+          "skills": 0.0,
+          "content": 0.1555646518285308,
+          "popularity": 0.0,
+          "random": 0.006943122193677727
+        },
+        "Product Manager / Mumbai": {
+          "hybrid": 0.3898436732472173,
+          "skills": 0.0,
+          "content": 0.02597500233066815,
+          "popularity": 0.0,
+          "random": 0.04509115210953352
+        },
+        "Product Manager / Pune": {
+          "hybrid": 0.41698722267351346,
+          "skills": 0.0,
+          "content": 0.14442765845540345,
+          "popularity": 0.0,
+          "random": 0.0
+        },
+        "Software Engineer / Bengaluru": {
+          "hybrid": 0.04401835325961603,
+          "skills": 0.022009176629808017,
+          "content": 0.03598629640223435,
+          "popularity": 0.0,
+          "random": 0.0
+        },
+        "Software Engineer / Hyderabad": {
+          "hybrid": 0.032227224912195464,
+          "skills": 0.017993148201117175,
+          "content": 0.014782949091545261,
+          "popularity": 0.0,
+          "random": 0.0
+        },
+        "Software Engineer / Mumbai": {
+          "hybrid": 0.11183070633508847,
+          "skills": 0.019349579985229248,
+          "content": 0.020511666732794358,
+          "popularity": 0.027772488774710908,
+          "random": 0.0
+        },
+        "Software Engineer / Pune": {
+          "hybrid": 0.04537425745411855,
+          "skills": 0.031691619230948355,
+          "content": 0.0,
+          "popularity": 0.0,
+          "random": 0.022009176629808017
+        }
+      },
+      "verdict": {
+        "leader": "hybrid",
+        "runner_up": "content",
+        "leader_mean_ndcg@10": 0.48310283177689217,
+        "runner_up_mean_ndcg@10": 0.14238961310265508,
+        "ahead_in_every_persona": false,
+        "ci95_vs_runner_up": [
+          0.3190574462313062,
+          0.3616733713919509
+        ],
+        "clear_winner": null,
+        "ranking": [
+          "hybrid",
+          "content",
+          "skills",
+          "popularity"
+        ]
+      }
+    },
+    "role": {
+      "personas": {
+        "Backend Developer": {
+          "n_relevant": 184,
+          "mean_profile_skills": 29.0,
+          "trials_without_skills": 0
+        },
+        "Business Analyst": {
+          "n_relevant": 186,
+          "mean_profile_skills": 11.1,
+          "trials_without_skills": 0
+        },
+        "Data Analyst": {
+          "n_relevant": 180,
+          "mean_profile_skills": 25.2,
+          "trials_without_skills": 0
+        },
+        "Data Engineer": {
+          "n_relevant": 160,
+          "mean_profile_skills": 28.4,
+          "trials_without_skills": 0
+        },
+        "Data Scientist": {
+          "n_relevant": 176,
+          "mean_profile_skills": 29.2,
+          "trials_without_skills": 0
+        },
+        "DevOps Engineer": {
+          "n_relevant": 184,
+          "mean_profile_skills": 25.8,
+          "trials_without_skills": 0
+        },
+        "Digital Marketing": {
+          "n_relevant": 179,
+          "mean_profile_skills": 4.4,
+          "trials_without_skills": 0
+        },
+        "Financial Analyst": {
+          "n_relevant": 168,
+          "mean_profile_skills": 9.8,
+          "trials_without_skills": 0
+        },
+        "Frontend Developer": {
+          "n_relevant": 183,
+          "mean_profile_skills": 18.9,
+          "trials_without_skills": 0
+        },
+        "Machine Learning Engineer": {
+          "n_relevant": 179,
+          "mean_profile_skills": 26.5,
+          "trials_without_skills": 0
+        },
+        "Product Manager": {
+          "n_relevant": 168,
+          "mean_profile_skills": 4.1,
+          "trials_without_skills": 0
+        },
+        "Software Engineer": {
+          "n_relevant": 171,
+          "mean_profile_skills": 27.1,
+          "trials_without_skills": 0
+        }
+      },
+      "summary": {
+        "hybrid": {
+          "precision@5": {
+            "mean": 0.6766666666666666,
+            "std": 0.3441548736118847
+          },
+          "recall@5": {
+            "mean": 0.038579744103163,
+            "std": 0.020176699049084836
+          },
+          "ndcg@5": {
+            "mean": 0.6775268996509621,
+            "std": 0.34826147797218765
+          },
+          "diversity@5": {
+            "mean": 0.703926938289669,
+            "std": 0.1121143948106752
+          },
+          "precision@10": {
+            "mean": 0.6633333333333333,
+            "std": 0.3064936791357043
+          },
+          "recall@10": {
+            "mean": 0.07544256473864215,
+            "std": 0.035729174257316636
+          },
+          "ndcg@10": {
+            "mean": 0.6682103240758177,
+            "std": 0.31515696270759985
+          },
+          "diversity@10": {
+            "mean": 0.7381307724946123,
+            "std": 0.0953608397770769
+          }
+        },
+        "skills": {
+          "precision@5": {
+            "mean": 0.09166666666666666,
+            "std": 0.2815274464083964
+          },
+          "recall@5": {
+            "mean": 0.005077658303464755,
+            "std": 0.015622142011274792
+          },
+          "ndcg@5": {
+            "mean": 0.0892438640418045,
+            "std": 0.27923020757259
+          },
+          "diversity@5": {
+            "mean": 0.8730203278323846,
+            "std": 0.04816488439261093
+          },
+          "precision@10": {
+            "mean": 0.11666666666666667,
+            "std": 0.2968556034500947
+          },
+          "recall@10": {
+            "mean": 0.012843488649940261,
+            "std": 0.03281904425856863
+          },
+          "ndcg@10": {
+            "mean": 0.10726759054895176,
+            "std": 0.2864764355463419
+          },
+          "diversity@10": {
+            "mean": 0.8804768040264507,
+            "std": 0.03204453379415145
+          }
+        },
+        "content": {
+          "precision@5": {
+            "mean": 0.6133333333333333,
+            "std": 0.3042923553673572
+          },
+          "recall@5": {
+            "mean": 0.03492022441545828,
+            "std": 0.01797272312390126
+          },
+          "ndcg@5": {
+            "mean": 0.614262172905756,
+            "std": 0.3128085483921032
+          },
+          "diversity@5": {
+            "mean": 0.7171439448501451,
+            "std": 0.0969705083626287
+          },
+          "precision@10": {
+            "mean": 0.5883333333333333,
+            "std": 0.28259997363418
+          },
+          "recall@10": {
+            "mean": 0.06693939694672554,
+            "std": 0.0330460116147441
+          },
+          "ndcg@10": {
+            "mean": 0.5967431982025339,
+            "std": 0.28848979861195223
+          },
+          "diversity@10": {
+            "mean": 0.7393889411405986,
+            "std": 0.08299181189026118
+          }
+        },
+        "popularity": {
+          "precision@5": {
+            "mean": 0.043333333333333335,
+            "std": 0.08274018597604274
+          },
+          "recall@5": {
+            "mean": 0.0024580686979574747,
+            "std": 0.0046963487378298896
+          },
+          "ndcg@5": {
+            "mean": 0.04001744781170346,
+            "std": 0.08340213104490211
+          },
+          "diversity@5": {
+            "mean": 0.9781565974315083,
+            "std": 0.00202186682920548
+          },
+          "precision@10": {
+            "mean": 0.04083333333333334,
+            "std": 0.06148831047386139
+          },
+          "recall@10": {
+            "mean": 0.004746375149570378,
+            "std": 0.007270267995823934
+          },
+          "ndcg@10": {
+            "mean": 0.0391109900140478,
+            "std": 0.060670811058080504
+          },
+          "diversity@10": {
+            "mean": 0.9526454345915306,
+            "std": 0.014638447566227624
+          }
+        },
+        "random": {
+          "precision@5": {
+            "mean": 0.03333333333333333,
+            "std": 0.08334733775883063
+          },
+          "recall@5": {
+            "mean": 0.0018836522067730685,
+            "std": 0.0046770612312909375
+          },
+          "ndcg@5": {
+            "mean": 0.03119020252480276,
+            "std": 0.0839539658216144
+          },
+          "diversity@5": {
+            "mean": 0.9578470381144017,
+            "std": 0.018626854345261016
+          },
+          "precision@10": {
+            "mean": 0.035833333333333335,
+            "std": 0.06052408831288947
+          },
+          "recall@10": {
+            "mean": 0.004039664552564517,
+            "std": 0.006795465303392411
+          },
+          "ndcg@10": {
+            "mean": 0.033275989232696895,
+            "std": 0.060910999903232066
+          },
+          "diversity@10": {
+            "mean": 0.9588540904681049,
+            "std": 0.011085628488797539
+          }
+        }
+      },
+      "catalog_coverage@10": {
+        "hybrid": 0.14069877242681775,
+        "skills": 0.0453257790368272,
+        "content": 0.10670443814919736,
+        "popularity": 0.006137865911237016,
+        "random": 0.4348441926345609
+      },
+      "persona_ndcg@10": {
+        "Backend Developer": {
+          "hybrid": 0.5247497056659525,
+          "skills": 0.0,
+          "content": 0.5703198803949852,
+          "popularity": 0.0,
+          "random": 0.06112065646141094
+        },
+        "Business Analyst": {
+          "hybrid": 0.32513076345462466,
+          "skills": 0.2872110865874211,
+          "content": 0.29469332123796865,
+          "popularity": 0.033127111727194514,
+          "random": 0.031298349214690074
+        },
+        "Data Analyst": {
+          "hybrid": 0.5448601197019158,
+          "skills": 0.0,
+          "content": 0.38931296351005196,
+          "popularity": 0.0,
+          "random": 0.028952298823485746
+        },
+        "Data Engineer": {
+          "hybrid": 0.8676532238058863,
+          "skills": 0.0,
+          "content": 0.8938320470603476,
+          "popularity": 0.07952050426052122,
+          "random": 0.0412449713642891
+        },
+        "Data Scientist": {
+          "hybrid": 0.7492589073658118,
+          "skills": 0.0,
+          "content": 0.7062763349421212,
+          "popularity": 0.08803670651923207,
+          "random": 0.04748709679526316
+        },
+        "DevOps Engineer": {
+          "hybrid": 1.0,
+          "skills": 0.0,
+          "content": 0.8696917969820117,
+          "popularity": 0.0,
+          "random": 0.038223600083875243
+        },
+        "Digital Marketing": {
+          "hybrid": 1.0,
+          "skills": 0.0,
+          "content": 1.0,
+          "popularity": 0.07662880587745888,
+          "random": 0.07188224500900738
+        },
+        "Financial Analyst": {
+          "hybrid": 1.0,
+          "skills": 0.0,
+          "content": 0.9095564451228061,
+          "popularity": 0.09245542097512906,
+          "random": 0.026873745552689527
+        },
+        "Frontend Developer": {
+          "hybrid": 0.698924690099812,
+          "skills": 0.0,
+          "content": 0.5332753116494044,
+          "popularity": 0.04401835325961603,
+          "random": 0.01487639058405727
+        },
+        "Machine Learning Engineer": {
+          "hybrid": 0.4216591656636431,
+          "skills": 1.0,
+          "content": 0.4750262954882206,
+          "popularity": 0.0,
+          "random": 0.0158507039740981
+        },
+        "Product Manager": {
+          "hybrid": 0.8446652130115861,
+          "skills": 0.0,
+          "content": 0.3490924424011356,
+          "popularity": 0.0,
+          "random": 0.012987501165334075
+        },
+        "Software Engineer": {
+          "hybrid": 0.04162210014058099,
+          "skills": 0.0,
+          "content": 0.16984153964135287,
+          "popularity": 0.055544977549421816,
+          "random": 0.008514311764162098
+        }
+      },
+      "verdict": {
+        "leader": "hybrid",
+        "runner_up": "content",
+        "leader_mean_ndcg@10": 0.6682103240758177,
+        "runner_up_mean_ndcg@10": 0.5967431982025339,
+        "ahead_in_every_persona": false,
+        "ci95_vs_runner_up": [
+          0.036770736318185386,
+          0.10841302539479551
+        ],
+        "clear_winner": null,
+        "ranking": [
+          "hybrid",
+          "content",
+          "skills",
+          "popularity"
+        ]
+      }
+    }
+  },
+  "overall_verdict": {
+    "clear_winner": null,
+    "note": "No strategy is a clear winner across all scenarios under the pre-declared rule."
+  },
+  "dataset": {
+    "run": "latest",
+    "taxonomy": "current"
+  },
+  "hybrid_weights_normalised_default": {
+    "skill": 0.4069767441860465,
+    "content": 0.3488372093023256,
+    "role": 0.11627906976744187,
+    "location": 0.06976744186046512,
+    "popularity": 0.058139534883720936
+  }
+}

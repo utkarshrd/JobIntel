@@ -1,0 +1,35 @@
+# One-command stack:  docker compose up --build
+#   UI  http://localhost:8000/ui/     API docs  http://localhost:8000/api/v1/docs
+# First run: load data into the empty database (no API calls for the saved files):
+#   docker compose run --rm backend python scripts/load_saved_adzuna.py
+#   docker compose run --rm backend python scripts/run_ingestion.py --ats
+#   docker compose run --rm backend python scripts/run_ingestion.py --adzuna --budget 48   # needs ADZUNA_* in .env
+# NOTE: this file was written but could not be executed on the development machine (Docker is not installed there).
+services:
+  db:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+      POSTGRES_DB: jobintel
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U postgres -d jobintel"]
+      interval: 5s
+      retries: 10
+
+  backend:
+    build: .
+    env_file: [.env]
+    environment:
+      DATABASE_URL: postgresql+psycopg2://postgres:postgres@db:5432/jobintel
+      CORS_ORIGINS: '["http://localhost:8000"]'
+    depends_on:
+      db: { condition: service_healthy }
+    ports: ["8000:8000"]
+    volumes:
+      - ./data:/app/data
+
+volumes:
+  pgdata:

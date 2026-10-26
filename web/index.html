@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="JobIntel: job-market analytics and explainable job recommendations built on real postings.">
+  <title>JobIntel</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%234f46e5'/%3E%3Cpath d='M18 44V20h8v24zM30 44V28h8v16zM42 44V14h8v30z' fill='white'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+  <header class="topbar">
+    <a class="brand" href="#/" aria-label="JobIntel home"><span class="logo">J</span><span class="wordmark">Job<b>Intel</b></span></a>
+    <nav id="nav" aria-label="Main"></nav>
+    <div class="userbox">
+      <span id="status" class="dot" title="checking backend…" role="img" aria-label="backend status"></span>
+      <div id="auth"></div>
+    </div>
+  </header>
+
+  <main id="main" tabindex="-1" aria-live="polite"></main>
+
+  <footer class="foot">
+    <div>JobIntel · job-market analytics and explainable recommendations built on real postings.</div>
+    <div>Job data: <a href="https://www.adzuna.com" target="_blank" rel="noopener">Adzuna</a> search results and public career boards (Greenhouse, Lever);
+      every posting links back to its original source. Analytics describe the collected sample, not the whole job market.</div>
+  </footer>
+
+  <div id="toast" class="toast" role="status"></div>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,871 @@
+{
+  "skills": [
+    {
+      "name": "python",
+      "display_name": "Python",
+      "category": "Programming Languages",
+      "aliases": [
+        "py",
+        "python3",
+        "python 3"
+      ]
+    },
+    {
+      "name": "sql",
+      "display_name": "SQL",
+      "category": "Databases & Query",
+      "aliases": [
+        "structured query language",
+        "postgresql",
+        "mysql",
+        "t-sql",
+        "pl/sql",
+        "sqlite"
+      ]
+    },
+    {
+      "name": "javascript",
+      "display_name": "JavaScript",
+      "category": "Programming Languages",
+      "aliases": [
+        "js",
+        "es6",
+        "ecmascript"
+      ]
+    },
+    {
+      "name": "typescript",
+      "display_name": "TypeScript",
+      "category": "Programming Languages",
+      "aliases": [
+        "ts"
+      ]
+    },
+    {
+      "name": "java",
+      "display_name": "Java",
+      "category": "Programming Languages",
+      "aliases": [
+        "core java",
+        "j2ee"
+      ]
+    },
+    {
+      "name": "cpp",
+      "display_name": "C++",
+      "category": "Programming Languages",
+      "aliases": [
+        "c plus plus",
+        "cpp"
+      ]
+    },
+    {
+      "name": "csharp",
+      "display_name": "C#",
+      "category": "Programming Languages",
+      "aliases": [
+        "c-sharp",
+        "c#",
+        ".net"
+      ]
+    },
+    {
+      "name": "r",
+      "display_name": "R",
+      "category": "Data Science & Analytics",
+      "aliases": [
+        "r programming",
+        "r-lang"
+      ]
+    },
+    {
+      "name": "pandas",
+      "display_name": "Pandas",
+      "category": "Data Science & Analytics",
+      "aliases": []
+    },
+    {
+      "name": "numpy",
+      "display_name": "NumPy",
+      "category": "Data Science & Analytics",
+      "aliases": []
+    },
+    {
+      "name": "machine learning",
+      "display_name": "Machine Learning",
+      "category": "AI & Machine Learning",
+      "aliases": [
+        "ml",
+        "machine-learning"
+      ]
+    },
+    {
+      "name": "deep learning",
+      "display_name": "Deep Learning",
+      "category": "AI & Machine Learning",
+      "aliases": [
+        "dl",
+        "deep-learning"
+      ]
+    },
+    {
+      "name": "data science",
+      "display_name": "Data Science",
+      "category": "Domain / Field",
+      "aliases": [
+        "ds"
+      ]
+    },
+    {
+      "name": "scikit-learn",
+      "display_name": "Scikit-Learn",
+      "category": "AI & Machine Learning",
+      "aliases": [
+        "sklearn"
+      ]
+    },
+    {
+      "name": "tensorflow",
+      "display_name": "TensorFlow",
+      "category": "AI & Machine Learning",
+      "aliases": [
+        "tf"
+      ]
+    },
+    {
+      "name": "pytorch",
+      "display_name": "PyTorch",
+      "category": "AI & Machine Learning",
+      "aliases": [
+        "torch"
+      ]
+    },
+    {
+      "name": "power bi",
+      "display_name": "Power BI",
+      "category": "Business Intelligence & Analytics",
+      "aliases": [
+        "powerbi",
+        "power-bi",
+        "dax"
+      ]
+    },
+    {
+      "name": "tableau",
+      "display_name": "Tableau",
+      "category": "Business Intelligence & Analytics",
+      "aliases": []
+    },
+    {
+      "name": "excel",
+      "display_name": "Microsoft Excel",
+      "category": "Business Intelligence & Analytics",
+      "aliases": [
+        "ms excel",
+        "vba",
+        "advanced excel",
+        "spreadsheets"
+      ]
+    },
+    {
+      "name": "aws",
+      "display_name": "Amazon Web Services (AWS)",
+      "category": "Cloud & DevOps",
+      "aliases": [
+        "amazon web services",
+        "ec2",
+        "s3",
+        "lambda",
+        "redshift"
+      ]
+    },
+    {
+      "name": "azure",
+      "display_name": "Microsoft Azure",
+      "category": "Cloud & DevOps",
+      "aliases": [
+        "microsoft azure",
+        "azure devops"
+      ]
+    },
+    {
+      "name": "gcp",
+      "display_name": "Google Cloud Platform (GCP)",
+      "category": "Cloud & DevOps",
+      "aliases": [
+        "google cloud",
+        "bigquery"
+      ]
+    },
+    {
+      "name": "docker",
+      "display_name": "Docker",
+      "category": "Cloud & DevOps",
+      "aliases": [
+        "containerization",
+        "containers"
+      ]
+    },
+    {
+      "name": "kubernetes",
+      "display_name": "Kubernetes",
+      "category": "Cloud & DevOps",
+      "aliases": [
+        "k8s"
+      ]
+    },
+    {
+      "name": "fastapi",
+      "display_name": "FastAPI",
+      "category": "Web Frameworks",
+      "aliases": []
+    },
+    {
+      "name": "django",
+      "display_name": "Django",
+      "category": "Web Frameworks",
+      "aliases": [
+        "drf",
+        "django rest framework"
+      ]
+    },
+    {
+      "name": "flask",
+      "display_name": "Flask",
+      "category": "Web Frameworks",
+      "aliases": []
+    },
+    {
+      "name": "react",
+      "display_name": "React",
+      "category": "Web Frameworks",
+      "aliases": [
+        "reactjs",
+        "react.js"
+      ]
+    },
+    {
+      "name": "node.js",
+      "display_name": "Node.js",
+      "category": "Web Frameworks",
+      "aliases": [
+        "nodejs",
+        "node"
+      ]
+    },
+    {
+      "name": "financial modeling",
+      "display_name": "Financial Modeling",
+      "category": "Finance & Domain",
+      "aliases": [
+        "financial modelling",
+        "dcf",
+        "valuation",
+        "financial analysis"
+      ]
+    },
+    {
+      "name": "risk analysis",
+      "display_name": "Risk Analysis",
+      "category": "Finance & Domain",
+      "aliases": [
+        "credit risk",
+        "market risk",
+        "risk management"
+      ]
+    },
+    {
+      "name": "data visualization",
+      "display_name": "Data Visualization",
+      "category": "Data Science & Analytics",
+      "aliases": [
+        "data viz",
+        "matplotlib",
+        "seaborn",
+        "plotly",
+        "dashboards",
+        "dashboard",
+        "dashboarding"
+      ]
+    },
+    {
+      "name": "nlp",
+      "display_name": "Natural Language Processing (NLP)",
+      "category": "AI & Machine Learning",
+      "aliases": [
+        "natural language processing",
+        "spacy",
+        "nltk",
+        "transformers",
+        "llm",
+        "llms"
+      ]
+    },
+    {
+      "name": "spark",
+      "display_name": "Apache Spark",
+      "category": "Data Engineering",
+      "aliases": [
+        "pyspark",
+        "apache spark"
+      ]
+    },
+    {
+      "name": "git",
+      "display_name": "Git & GitHub",
+      "category": "Tools & Methodology",
+      "aliases": [
+        "github",
+        "gitlab",
+        "version control"
+      ]
+    },
+    {
+      "name": "agile",
+      "display_name": "Agile / Scrum",
+      "category": "Tools & Methodology",
+      "aliases": [
+        "scrum",
+        "kanban",
+        "jira"
+      ]
+    },
+    {
+      "name": "communication",
+      "display_name": "Communication Skills",
+      "category": "Soft Skills",
+      "aliases": [
+        "verbal communication",
+        "written communication",
+        "presentation skills",
+        "stakeholder management"
+      ]
+    },
+    {
+      "name": "problem solving",
+      "display_name": "Problem Solving",
+      "category": "Soft Skills",
+      "aliases": [
+        "analytical thinking",
+        "critical thinking"
+      ]
+    },
+    {
+      "name": "statistics",
+      "display_name": "Statistics",
+      "category": "Data Science & Analytics",
+      "aliases": [
+        "statistical analysis",
+        "statistical modeling",
+        "statistical modelling",
+        "statistical techniques",
+        "statistical methods"
+      ]
+    },
+    {
+      "name": "big data",
+      "display_name": "Big Data",
+      "category": "Data Engineering",
+      "aliases": [
+        "hadoop",
+        "hive"
+      ]
+    },
+    {
+      "name": "data warehousing",
+      "display_name": "Data Warehousing",
+      "category": "Data Engineering",
+      "aliases": [
+        "data warehouse"
+      ]
+    },
+    {
+      "name": "etl",
+      "display_name": "ETL",
+      "category": "Data Engineering",
+      "aliases": [
+        "elt",
+        "ssis",
+        "data pipelines",
+        "data pipeline"
+      ]
+    },
+    {
+      "name": "scala",
+      "display_name": "Scala",
+      "category": "Programming Languages",
+      "aliases": []
+    },
+    {
+      "name": "nosql",
+      "display_name": "NoSQL",
+      "category": "Databases & Query",
+      "aliases": [
+        "mongodb",
+        "cassandra"
+      ]
+    },
+    {
+      "name": "data modeling",
+      "display_name": "Data Modeling",
+      "category": "Data Engineering",
+      "aliases": [
+        "data modelling"
+      ]
+    },
+    {
+      "name": "data governance",
+      "display_name": "Data Governance",
+      "category": "Data Engineering",
+      "aliases": []
+    },
+    {
+      "name": "data quality",
+      "display_name": "Data Quality",
+      "category": "Data Engineering",
+      "aliases": []
+    },
+    {
+      "name": "a/b testing",
+      "display_name": "A/B Testing",
+      "category": "Data Science & Analytics",
+      "aliases": [
+        "ab testing",
+        "a/b tests",
+        "experimentation"
+      ]
+    },
+    {
+      "name": "forecasting",
+      "display_name": "Forecasting",
+      "category": "Data Science & Analytics",
+      "aliases": [
+        "time series",
+        "time-series"
+      ]
+    },
+    {
+      "name": "predictive modeling",
+      "display_name": "Predictive Modeling",
+      "category": "AI & Machine Learning",
+      "aliases": [
+        "predictive modelling",
+        "predictive models",
+        "predictive analytics"
+      ]
+    },
+    {
+      "name": "generative ai",
+      "display_name": "Generative AI",
+      "category": "AI & Machine Learning",
+      "aliases": [
+        "genai",
+        "gen ai"
+      ]
+    },
+    {
+      "name": "rag",
+      "display_name": "RAG",
+      "category": "AI & Machine Learning",
+      "aliases": [
+        "retrieval augmented generation",
+        "retrieval-augmented generation"
+      ]
+    },
+    {
+      "name": "prompt engineering",
+      "display_name": "Prompt Engineering",
+      "category": "AI & Machine Learning",
+      "aliases": []
+    },
+    {
+      "name": "sas",
+      "display_name": "SAS",
+      "category": "Data Science & Analytics",
+      "aliases": []
+    },
+    {
+      "name": "golang",
+      "display_name": "Go (Golang)",
+      "category": "Programming Languages",
+      "aliases": []
+    },
+    {
+      "name": "rust",
+      "display_name": "Rust",
+      "category": "Programming Languages",
+      "aliases": []
+    },
+    {
+      "name": "kotlin",
+      "display_name": "Kotlin",
+      "category": "Programming Languages",
+      "aliases": []
+    },
+    {
+      "name": "swift",
+      "display_name": "Swift",
+      "category": "Programming Languages",
+      "aliases": []
+    },
+    {
+      "name": "php",
+      "display_name": "PHP",
+      "category": "Programming Languages",
+      "aliases": []
+    },
+    {
+      "name": "ruby",
+      "display_name": "Ruby",
+      "category": "Programming Languages",
+      "aliases": [
+        "ruby on rails"
+      ]
+    },
+    {
+      "name": "bash",
+      "display_name": "Bash / Shell",
+      "category": "Programming Languages",
+      "aliases": [
+        "shell scripting"
+      ]
+    },
+    {
+      "name": "html",
+      "display_name": "HTML",
+      "category": "Web Frameworks",
+      "aliases": [
+        "html5"
+      ]
+    },
+    {
+      "name": "css",
+      "display_name": "CSS",
+      "category": "Web Frameworks",
+      "aliases": [
+        "css3"
+      ]
+    },
+    {
+      "name": "angular",
+      "display_name": "Angular",
+      "category": "Web Frameworks",
+      "aliases": [
+        "angularjs"
+      ]
+    },
+    {
+      "name": "vue",
+      "display_name": "Vue.js",
+      "category": "Web Frameworks",
+      "aliases": [
+        "vue.js",
+        "vuejs"
+      ]
+    },
+    {
+      "name": "next.js",
+      "display_name": "Next.js",
+      "category": "Web Frameworks",
+      "aliases": [
+        "nextjs"
+      ]
+    },
+    {
+      "name": "spring boot",
+      "display_name": "Spring Boot",
+      "category": "Web Frameworks",
+      "aliases": [
+        "spring framework"
+      ]
+    },
+    {
+      "name": "rest api",
+      "display_name": "REST APIs",
+      "category": "Web Frameworks",
+      "aliases": [
+        "rest apis",
+        "restful",
+        "restful apis"
+      ]
+    },
+    {
+      "name": "graphql",
+      "display_name": "GraphQL",
+      "category": "Web Frameworks",
+      "aliases": []
+    },
+    {
+      "name": "microservices",
+      "display_name": "Microservices",
+      "category": "Web Frameworks",
+      "aliases": [
+        "microservice"
+      ]
+    },
+    {
+      "name": "redis",
+      "display_name": "Redis",
+      "category": "Databases & Query",
+      "aliases": []
+    },
+    {
+      "name": "elasticsearch",
+      "display_name": "Elasticsearch",
+      "category": "Databases & Query",
+      "aliases": []
+    },
+    {
+      "name": "sql server",
+      "display_name": "SQL Server",
+      "category": "Databases & Query",
+      "aliases": [
+        "mssql"
+      ]
+    },
+    {
+      "name": "snowflake",
+      "display_name": "Snowflake",
+      "category": "Data Engineering",
+      "aliases": []
+    },
+    {
+      "name": "airflow",
+      "display_name": "Airflow",
+      "category": "Data Engineering",
+      "aliases": [
+        "apache airflow"
+      ]
+    },
+    {
+      "name": "kafka",
+      "display_name": "Kafka",
+      "category": "Data Engineering",
+      "aliases": [
+        "apache kafka"
+      ]
+    },
+    {
+      "name": "dbt",
+      "display_name": "dbt",
+      "category": "Data Engineering",
+      "aliases": []
+    },
+    {
+      "name": "data engineering",
+      "display_name": "Data Engineering",
+      "category": "Domain / Field",
+      "aliases": []
+    },
+    {
+      "name": "data analysis",
+      "display_name": "Data Analysis",
+      "category": "Domain / Field",
+      "aliases": [
+        "data analytics"
+      ]
+    },
+    {
+      "name": "business intelligence",
+      "display_name": "Business Intelligence",
+      "category": "Business Intelligence & Analytics",
+      "aliases": [
+        "bi tools"
+      ]
+    },
+    {
+      "name": "looker",
+      "display_name": "Looker",
+      "category": "Business Intelligence & Analytics",
+      "aliases": []
+    },
+    {
+      "name": "qlik",
+      "display_name": "Qlik",
+      "category": "Business Intelligence & Analytics",
+      "aliases": [
+        "qlikview",
+        "qlik sense"
+      ]
+    },
+    {
+      "name": "google analytics",
+      "display_name": "Google Analytics",
+      "category": "Business Intelligence & Analytics",
+      "aliases": []
+    },
+    {
+      "name": "power query",
+      "display_name": "Power Query",
+      "category": "Business Intelligence & Analytics",
+      "aliases": []
+    },
+    {
+      "name": "xgboost",
+      "display_name": "XGBoost",
+      "category": "AI & Machine Learning",
+      "aliases": []
+    },
+    {
+      "name": "computer vision",
+      "display_name": "Computer Vision",
+      "category": "AI & Machine Learning",
+      "aliases": []
+    },
+    {
+      "name": "feature engineering",
+      "display_name": "Feature Engineering",
+      "category": "AI & Machine Learning",
+      "aliases": []
+    },
+    {
+      "name": "mlops",
+      "display_name": "MLOps",
+      "category": "AI & Machine Learning",
+      "aliases": []
+    },
+    {
+      "name": "langchain",
+      "display_name": "LangChain",
+      "category": "AI & Machine Learning",
+      "aliases": []
+    },
+    {
+      "name": "recommendation systems",
+      "display_name": "Recommendation Systems",
+      "category": "AI & Machine Learning",
+      "aliases": [
+        "recommender systems",
+        "recommendation engines"
+      ]
+    },
+    {
+      "name": "data mining",
+      "display_name": "Data Mining",
+      "category": "Data Science & Analytics",
+      "aliases": []
+    },
+    {
+      "name": "terraform",
+      "display_name": "Terraform",
+      "category": "Cloud & DevOps",
+      "aliases": []
+    },
+    {
+      "name": "ansible",
+      "display_name": "Ansible",
+      "category": "Cloud & DevOps",
+      "aliases": []
+    },
+    {
+      "name": "jenkins",
+      "display_name": "Jenkins",
+      "category": "Cloud & DevOps",
+      "aliases": []
+    },
+    {
+      "name": "ci/cd",
+      "display_name": "CI/CD",
+      "category": "Cloud & DevOps",
+      "aliases": [
+        "cicd",
+        "ci cd",
+        "continuous integration"
+      ]
+    },
+    {
+      "name": "linux",
+      "display_name": "Linux",
+      "category": "Cloud & DevOps",
+      "aliases": []
+    },
+    {
+      "name": "system design",
+      "display_name": "System Design",
+      "category": "Software Engineering Practices",
+      "aliases": []
+    },
+    {
+      "name": "unit testing",
+      "display_name": "Unit Testing",
+      "category": "Software Engineering Practices",
+      "aliases": [
+        "test automation"
+      ]
+    },
+    {
+      "name": "selenium",
+      "display_name": "Selenium",
+      "category": "Software Engineering Practices",
+      "aliases": []
+    },
+    {
+      "name": "figma",
+      "display_name": "Figma",
+      "category": "Tools & Methodology",
+      "aliases": []
+    },
+    {
+      "name": "project management",
+      "display_name": "Project Management",
+      "category": "Tools & Methodology",
+      "aliases": []
+    },
+    {
+      "name": "leadership",
+      "display_name": "Leadership",
+      "category": "Soft Skills",
+      "aliases": []
+    },
+    {
+      "name": "financial reporting",
+      "display_name": "Financial Reporting",
+      "category": "Finance & Domain",
+      "aliases": []
+    },
+    {
+      "name": "budgeting",
+      "display_name": "Budgeting",
+      "category": "Finance & Domain",
+      "aliases": []
+    },
+    {
+      "name": "sap",
+      "display_name": "SAP",
+      "category": "Finance & Domain",
+      "aliases": []
+    },
+    {
+      "name": "seo",
+      "display_name": "SEO",
+      "category": "Marketing",
+      "aliases": [
+        "search engine optimization"
+      ]
+    },
+    {
+      "name": "content marketing",
+      "display_name": "Content Marketing",
+      "category": "Marketing",
+      "aliases": []
+    },
+    {
+      "name": "crm",
+      "display_name": "CRM",
+      "category": "Marketing",
+      "aliases": []
+    }
+  ],
+  "role_categories": [
+    "Data & Analytics",
+    "AI & Machine Learning",
+    "Software Engineering",
+    "Cloud & DevOps",
+    "Finance & Banking",
+    "Product Management",
+    "Design & UX",
+    "Cybersecurity",
+    "Sales & Marketing",
+    "Operations & HR"
+  ]
+}
